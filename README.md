@@ -100,7 +100,7 @@ SafeHavenDAO is an open-source project, and we welcome contributions from develo
 2. **Documentation**: Improve and expand the current documentation to make onboarding easier for new users.
 3. **Partnerships**: If you are part of an NGO or a government organization, consider partnering with SafeHavenDAO for aid distribution or refugee support.
 
-To contribute, visit our [GitHub Repository](#) and explore open issues, fork the repo, and submit pull requests.
+To contribute, visit our [GitHub Repository](https://github.com/Isomkevin/SafeHavenDAO) and explore open issues, fork the repo, and submit pull requests.
 
 ---
 
@@ -115,6 +115,7 @@ For any inquiries, partnership opportunities, or media-related questions, feel f
 - **Email**: contact@safehavendao.org
 - **Website**: [www.safehavendao.org](#)
 - **Twitter**: [@SafeHavenDAO](#)
+- **LinkedIn**: [@SafeHavenDAO](https://www.linkedin.com/showcase/safehaven-dao)
 - **Telegram**: [SafeHavenDAO Community](#)
 
 ---
