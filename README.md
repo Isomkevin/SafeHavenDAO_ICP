@@ -1,4 +1,5 @@
-# SafeHavenDAO - A Decentralized Financial and Identity Platform for Refugees
+# SafeHavenDAO 
+## A Decentralized Financial and Identity Platform for Refugees
 
 ### Overview
 SafeHavenDAO is a decentralized platform dedicated to empowering refugees by providing them with secure financial services and identity management through blockchain technology. Leveraging decentralized autonomous organization (DAO) principles, SafeHavenDAO aims to create a transparent, inclusive, and equitable ecosystem where refugees can regain financial autonomy, participate in economic opportunities, and securely manage their identities.
